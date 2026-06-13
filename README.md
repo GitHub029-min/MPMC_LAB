@@ -13,3 +13,4 @@ This repository contains assembly language programs for MPMC Lab (CSE 360).
 8. Smallest of Three Numbers
 9. Largest of Three Numbers
 10. Simple Pattern Printing
+11. implement the following instructions: SHL, SHR, ROL, ROR
